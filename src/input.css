@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme{
+    --breakpoint-*:initial;
+    --breakpoint-sm:480px;
+    --breakpoint-md:768px;
+    --breakpoint-lg:976px;
+    --color-bright-red: hsl(12, 88%, 59%);
+    --color-bright-red-light: hsl(12, 88%, 69%);
+    --color-bright-red-sup-light: hsl(12, 88%, 95%);
+    --color-dark-blue: hsl(228, 39%, 23%);
+    --color-dark-grayish-blue: hsl(227, 12%, 61%);
+    --color-very-dark-blue: hsl(233, 12%, 13%);
+    --color-very-pale-red: hsl(13, 100%, 96%);
+    --color-very-light-gray: hsl(0, 0%, 98%);
+}
